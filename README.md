@@ -10,6 +10,7 @@ Anime Picture
 > pkg install git
 > pkg install nodejs
 > git clone https://github.com/shansekai/anime-picture
+> cd anime-picture
 > npm install
 ```
 

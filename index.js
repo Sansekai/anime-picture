@@ -1,4 +1,3 @@
-const moment = require('moment-timezone')
 const fs = require('fs-extra')
 const chalk = require('chalk')
 const readlineSync = require('readline-sync')

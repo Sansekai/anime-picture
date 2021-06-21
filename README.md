@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/shansekai/sound-effect/main/example.jpg" width="200" height="200"/>
+<img src="https://raw.githubusercontent.com/shansekai/anime-picture/main/20210621_120358.jpg" width="500" height="500"/>
 <br>
 Anime Picture
 </p>

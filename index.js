@@ -32,7 +32,7 @@ try {
                     if (fs.existsSync('/sdcard/wp-anime')) {
                         const response = await fetch(data);
                         const buffer = await response.buffer();
-                        fs.writeFileSync(`/sdcard/wp-anime/${anunya(5)}.jpg`, buffer, () =>
+                        fs.writeFile(`/sdcard/wp-anime/${anunya(5)}.jpg`, buffer, () =>
                             console.log(chalk.green('finished downloading!')))
                     } else {
                         fs.mkdir('/sdcard/wp-anime')

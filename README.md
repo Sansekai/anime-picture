@@ -9,7 +9,7 @@ Anime Picture
 > pkg update && pkg upgrade -y
 > pkg install git
 > pkg install nodejs
-> git clone https://github.com/slavecode/anime-picture
+> git clone https://github.com/sansekai/anime-picture
 > cd anime-picture
 > npm install
 ```
